@@ -1,0 +1,301 @@
+author_id,display_name,institution,publication_count,citation_count
+https://openalex.org/A5005349213,Demis Hassabis,DeepMind (United Kingdom),7,51699
+https://openalex.org/A5059179935,John Jumper,DeepMind (United Kingdom),6,49339
+https://openalex.org/A5101569668,Tim Green,DeepMind (United Kingdom),6,49339
+https://openalex.org/A5009567462,Augustin Žídek,DeepMind (United Kingdom),6,49339
+https://openalex.org/A5013834379,Pushmeet Kohli,DeepMind (United Kingdom),6,49339
+https://openalex.org/A5089979303,Matthew J. Page,Monash University,5,65395
+https://openalex.org/A5015844348,Joanne E. McKenzie,Monash University,5,66197
+https://openalex.org/A5068353058,David Moher,Ottawa Hospital,5,65395
+https://openalex.org/A5017082774,Richard Evans,DeepMind (United Kingdom),5,43119
+https://openalex.org/A5079389977,Kathryn Tunyasuvunakool,DeepMind (United Kingdom),5,46380
+https://openalex.org/A5027154958,Alex Bridgland,DeepMind (United Kingdom),5,43119
+https://openalex.org/A5085902321,Andrew Cowie,DeepMind (United Kingdom),5,46380
+https://openalex.org/A5075834790,Naman Goyal,Unknown,5,16422
+https://openalex.org/A5059430118,Alex Bateman,European Bioinformatics Institute,5,20701
+https://openalex.org/A5088551093,Quoc V. Le,Unknown,5,14059
+https://openalex.org/A5061726857,Patrick M. Bossuyt,Amsterdam UMC Location Vrije Universiteit Amsterdam,4,63646
+https://openalex.org/A5065028933,Isabelle Boutron,Hôtel-Dieu de Paris,4,63646
+https://openalex.org/A5090700680,Tammy Hoffmann,Bond University,4,63646
+https://openalex.org/A5091561305,Larissa Shamseer,Wilfrid Laurier University,4,63646
+https://openalex.org/A5076572041,Jennifer Tetzlaff,Unknown,4,63646
+https://openalex.org/A5041615321,Elie A. Akl,McMaster University,4,65493
+https://openalex.org/A5012486829,Sue Brennan,Monash University,4,64381
+https://openalex.org/A5003504334,Julie Glanville,Unknown,4,63579
+https://openalex.org/A5037094305,Luke A. McGuinness,University of Bristol,4,64976
+https://openalex.org/A5090183643,James Thomas,University College London,4,64381
+https://openalex.org/A5029006782,Vivian Welch,Bruyère,4,64381
+https://openalex.org/A5062883663,Alexander Pritzel,DeepMind (United Kingdom),4,40160
+https://openalex.org/A5004531184,Michael Figurnov,DeepMind (United Kingdom),4,43391
+https://openalex.org/A5045981348,Olaf Ronneberger,DeepMind (United Kingdom),4,40160
+https://openalex.org/A5030626083,Anna Potapenko,DeepMind (United Kingdom),4,40160
+https://openalex.org/A5019154965,Rishub Jain,DeepMind (United Kingdom),4,40160
+https://openalex.org/A5050109164,Stig Petersen,DeepMind (United Kingdom),4,42961
+https://openalex.org/A5046346579,Ellen Clancy,DeepMind (United Kingdom),4,42991
+https://openalex.org/A5079708487,Andrew Senior,DeepMind (United Kingdom),4,39730
+https://openalex.org/A5090341705,Koray Kavukcuoglu,DeepMind (United Kingdom),4,39382
+https://openalex.org/A5076418776,Prafulla Dhariwal,OpenAI (United States),4,18248
+https://openalex.org/A5030305998,Amanda Askell,Unknown,4,21418
+https://openalex.org/A5057289323,Sandhini Agarwal,Unknown,4,21418
+https://openalex.org/A5101696375,Aditya Ramesh,Unknown,4,20488
+https://openalex.org/A5100700361,Kaiming He,Unknown,4,18191
+https://openalex.org/A5049246408,Ross Girshick,Unknown,4,18844
+https://openalex.org/A5074309419,Peer Bork,European Molecular Biology Laboratory,4,14665
+https://openalex.org/A5009279088,Shriya Raj,European Bioinformatics Institute,4,18133
+https://openalex.org/A5032644449,Hugo Touvron,Meta (Israel),4,8809
+https://openalex.org/A5031204654,Cynthia D. Mulrow,The University of Texas Health Science Center at Houston,3,58972
+https://openalex.org/A5070442023,Roger Chou,Oregon Health & Science University,3,61830
+https://openalex.org/A5054403907,Jeremy Grimshaw,University of Ottawa,3,61830
+https://openalex.org/A5110728949,Asbjørn Hróbjartsson,University of Southern Denmark,3,61830
+https://openalex.org/A5007813511,Manoj M. Lalu,Queen's University,3,61830
+https://openalex.org/A5072760500,Tianjing Li,Ottawa Hospital Research Institute,3,61830
+https://openalex.org/A5054045289,Elizabeth Loder,Harvard University,3,61830
+https://openalex.org/A5055917772,Evan Mayo‐Wilson,Queen's University,3,61830
+https://openalex.org/A5074391235,Steve McDonald,Indiana University Bloomington,3,61830
+https://openalex.org/A5074901391,Andrea C. Tricco,Queen's University,3,61830
+https://openalex.org/A5077388783,Penny Whiting,University of Ottawa,3,61830
+https://openalex.org/A5113989875,Russ Bates,DeepMind (United Kingdom),3,36771
+https://openalex.org/A5054576402,Simon Kohl,DeepMind (United Kingdom),3,38967
+https://openalex.org/A5079907259,Andrew J. Ballard,DeepMind (United Kingdom),3,37171
+https://openalex.org/A5088601308,Bernardino Romera‐Paredes,DeepMind (United Kingdom),3,36142
+https://openalex.org/A5088186812,Jonas Adler,DeepMind (United Kingdom),3,37171
+https://openalex.org/A5009240058,David Reiman,DeepMind (United Kingdom),3,37171
+https://openalex.org/A5063529978,Sebastian W. Bodenstein,DeepMind (United Kingdom),3,37592
+https://openalex.org/A5091639078,Simon Wessely,King's College London,3,22301
+https://openalex.org/A5059260582,Girish Sastry,Unknown,3,18582
+https://openalex.org/A5064685592,Gretchen Krueger,Unknown,3,18582
+https://openalex.org/A5084512458,Rewon Child,Unknown,3,16413
+https://openalex.org/A5030935953,Mark Chen,Unknown,3,16473
+https://openalex.org/A5051250767,Alec Radford,Unknown,3,18582
+https://openalex.org/A5006446297,Ilya Sutskever,Unknown,3,18582
+https://openalex.org/A5102416863,Saining Xie,Meta (Israel),3,17416
+https://openalex.org/A5072470661,Chien-Yao Wang,"Institute of Information Science, Academia Sinica",3,18634
+https://openalex.org/A5108538229,Hong-Yuan Mark Liao,"Institute of Information Science, Academia Sinica",3,18634
+https://openalex.org/A5067919401,Luke Zettlemoyer,University of Washington,3,12166
+https://openalex.org/A5026050023,Sandra Orchard,Unknown,3,13582
+https://openalex.org/A5034785056,Penelope Garmiri,Unknown,3,13582
+https://openalex.org/A5047798389,Rizwan Ishtiaq,Unknown,3,13582
+https://openalex.org/A5090916579,Alan Bridge,SIB Swiss Institute of Bioinformatics,3,12340
+https://openalex.org/A5114376389,Lorna Richardson,European Bioinformatics Institute,3,10851
+https://openalex.org/A5104045098,ROBERT FINN,European Bioinformatics Institute,3,10851
+https://openalex.org/A5027292126,Klaus Maier‐Hein,Heidelberg University,3,9683
+https://openalex.org/A5026693514,Nathalie Percie du Sert,National Centre for the Replacement Refinement and Reduction of Animals in Research,3,9155
+https://openalex.org/A5044648327,Viki Hurst,National Centre for the Replacement Refinement and Reduction of Animals in Research,3,9155
+https://openalex.org/A5020788754,Amrita Ahluwalia,Queen Mary University of London,3,9155
+https://openalex.org/A5046802875,Sabina Alam,Taylor and Francis (United Kingdom),3,9155
+https://openalex.org/A5009089580,Marc T. Avey,ICF International (United States),3,9155
+https://openalex.org/A5113959880,Monya Baker,The Nature Conservancy,3,9155
+https://openalex.org/A5087656450,William J. Browne,University of Bristol,3,9155
+https://openalex.org/A5043772847,Alejandra Clark,Public Library of Science,3,9155
+https://openalex.org/A5004753412,Innes C. Cuthill,University of Bristol,3,9155
+https://openalex.org/A5046050028,Ulrich Dirnagl,Berlin Institute of Health at Charité - Universitätsmedizin Berlin,3,9155
+https://openalex.org/A5019284502,Michael Emerson,Imperial College London,3,9155
+https://openalex.org/A5007223498,Paul Garner,Liverpool School of Tropical Medicine,3,9155
+https://openalex.org/A5089020623,Stephen T. Holgate,University of Southampton,3,9155
+https://openalex.org/A5056972691,David W. Howells,University of Tasmania,3,9155
+https://openalex.org/A5056701344,Natasha A. Karp,AstraZeneca (United Kingdom),3,9155
+https://openalex.org/A5021724057,Stanley E. Lazic,Prioris.ai (Canada),3,9155
+https://openalex.org/A5035251091,Katie Lidster,National Centre for the Replacement Refinement and Reduction of Animals in Research,3,9155
+https://openalex.org/A5038121314,Catriona J. MacCallum,Hindawi (United Kingdom),3,9155
+https://openalex.org/A5101814630,Malcolm Macleod,University of Edinburgh,3,9155
+https://openalex.org/A5009072337,Esther J. Pearl,National Centre for the Replacement Refinement and Reduction of Animals in Research,3,9155
+https://openalex.org/A5065549009,Ole H. Petersen,Cardiff University,3,9155
+https://openalex.org/A5046758954,Frances Rawle,Medical Research Council,3,9155
+https://openalex.org/A5037671046,Penny S. Reynolds,University of Florida,3,9155
+https://openalex.org/A5004269545,Kieron Rooney,The University of Sydney,3,9155
+https://openalex.org/A5046357692,Emily S. Sena,University of Edinburgh,3,9155
+https://openalex.org/A5083997685,Shai D. Silberberg,National Institute of Neurological Disorders and Stroke,3,9155
+https://openalex.org/A5040568010,Thomas Steckler,Janssen (Belgium),3,9155
+https://openalex.org/A5112549766,Hanno Würbel,University of Bern,3,9155
+https://openalex.org/A5054729605,Virginia Braun,University of Auckland,3,7407
+https://openalex.org/A5045921227,Victoria Clarke,University of the West of England,3,7407
+https://openalex.org/A5029508763,Michał Zieliński,DeepMind (United Kingdom),3,8946
+https://openalex.org/A5100430147,Sunghwan Kim,National Center for Biotechnology Information,3,7021
+https://openalex.org/A5015494748,Evan Bolton,National Center for Biotechnology Information,3,7021
+https://openalex.org/A5107859338,Armand Joulin,Meta (Israel),3,7293
+https://openalex.org/A5063834923,Adam J. Kucharski,London School of Hygiene & Tropical Medicine,3,7260
+https://openalex.org/A5007152164,Timothy Russell,London School of Hygiene & Tropical Medicine,3,7260
+https://openalex.org/A5058699536,Sebastian Funk,London School of Hygiene & Tropical Medicine,3,7260
+https://openalex.org/A5040703559,Rosalind M. Eggo,London School of Hygiene & Tropical Medicine,3,7260
+https://openalex.org/A5037935415,Mark Jit,London School of Hygiene & Tropical Medicine,3,7260
+https://openalex.org/A5091283473,James D. Munday,London School of Hygiene & Tropical Medicine,3,7260
+https://openalex.org/A5070972999,Amy Gimma,London School of Hygiene & Tropical Medicine,3,7260
+https://openalex.org/A5067911817,Kevin van Zandvoort,London School of Hygiene & Tropical Medicine,3,7260
+https://openalex.org/A5053987970,Christopher I Jarvis,London School of Hygiene & Tropical Medicine,3,7260
+https://openalex.org/A5083613572,Sam Abbott,London School of Hygiene & Tropical Medicine,3,7260
+https://openalex.org/A5091500375,Seyedali Mirjalili,Torrens University Australia,3,6522
+https://openalex.org/A5039341855,Amir H. Gandomi,University of Technology Sydney,3,5874
+https://openalex.org/A5048622877,Yogesh K. Dwivedi,Swansea University,3,5818
+https://openalex.org/A5072261829,Ramakrishnan Raman,Symbiosis International University,3,5818
+https://openalex.org/A5079540764,Sharan Narang,Unknown,3,5506
+https://openalex.org/A5051064208,Danqi Chen,Princeton University,3,5440
+https://openalex.org/A5082927689,Lesley Stewart,University of York,2,57156
+https://openalex.org/A5067459456,Clemens Meyer,DeepMind (United Kingdom),2,33782
+https://openalex.org/A5051623730,Stanislav Nikolov,DeepMind (United Kingdom),2,33782
+https://openalex.org/A5051168505,Trevor Back,DeepMind (United Kingdom),2,33574
+https://openalex.org/A5019985343,Martin Steinegger,Seoul National University,2,38002
+https://openalex.org/A5091771290,David Silver,DeepMind (United Kingdom),2,34173
+https://openalex.org/A5003562101,Oriol Vinyals,DeepMind (United Kingdom),2,32833
+https://openalex.org/A5111383725,C. R. Harris,Utah State University Space Dynamics Laboratory,2,28308
+https://openalex.org/A5086174915,K. Jarrod Millman,"University of California, Berkeley",2,28308
+https://openalex.org/A5070493940,Stéfan van der Walt,"University of California, Berkeley",2,28308
+https://openalex.org/A5047155247,Ralf Gommers,Quansight (United States),2,28308
+https://openalex.org/A5064221962,Pauli Virtanen,University of Jyväskylä,2,28308
+https://openalex.org/A5023051838,David Cournapeau,Unknown,2,28308
+https://openalex.org/A5038378109,Eric Wieser,University of Cambridge,2,28308
+https://openalex.org/A5054683366,Nathaniel J. Smith,Unknown,2,28308
+https://openalex.org/A5085464473,Robert Kern,Enthought (United States),2,28308
+https://openalex.org/A5031567163,M. H. van Kerkwijk,University of Toronto,2,19779
+https://openalex.org/A5047540997,Matthew Brett,University of Birmingham,2,28308
+https://openalex.org/A5051733624,Pearu Peterson,Tallinn University of Technology,2,28308
+https://openalex.org/A5061717074,Tyler Reddy,Los Alamos National Laboratory,2,28308
+https://openalex.org/A5050562889,Warren Weckesser,"University of California, Berkeley",2,28308
+https://openalex.org/A5019360202,Travis E. Oliphant,Quansight (United States),2,28308
+https://openalex.org/A5077472317,Neil Greenberg,King's College London,2,16616
+https://openalex.org/A5102906366,Mostafa Dehghani,Google (United States),2,15911
+https://openalex.org/A5071956319,Georg Heigold,Google (United States),2,15911
+https://openalex.org/A5079465685,T. B. Brown,Unknown,2,14567
+https://openalex.org/A5031060893,Melanie Subbiah,Unknown,2,14567
+https://openalex.org/A5053213601,Jared Kaplan,Unknown,2,14567
+https://openalex.org/A5043840749,Arvind Neelakantan,Unknown,2,14567
+https://openalex.org/A5083109184,Pranav Shyam,Unknown,2,14567
+https://openalex.org/A5070026510,Ariel Herbert-Voss,Unknown,2,14567
+https://openalex.org/A5049786610,Tom Henighan,Unknown,2,14567
+https://openalex.org/A5109551394,Daniel M. Ziegler,Unknown,2,14567
+https://openalex.org/A5002922045,Christopher Hesse,Unknown,2,14567
+https://openalex.org/A5016619179,Eric J. Sigler,Unknown,2,14567
+https://openalex.org/A5026541761,Scott Gray,Unknown,2,14567
+https://openalex.org/A5057742306,Benjamin Chess,Unknown,2,14567
+https://openalex.org/A5022674572,Christopher Berner,Unknown,2,14567
+https://openalex.org/A5054887773,Sam McCandlish,Unknown,2,14567
+https://openalex.org/A5066197394,Dario Amodei,Unknown,2,14567
+https://openalex.org/A5030889135,Anne M. Archibald,Newcastle University,2,13495
+https://openalex.org/A5082768249,Antony Lee,Université de Bordeaux,2,13495
+https://openalex.org/A5107656958,J. P. Dietrich,Stuttgart Observatory,2,13495
+https://openalex.org/A5022792966,Haoqi Fan,Unknown,2,11506
+https://openalex.org/A5032569443,Francisco Massa,Meta (Israel),2,10887
+https://openalex.org/A5030669774,Shane McCarthy,University of Cambridge,2,11198
+https://openalex.org/A5100338825,Heng Li,Harvard University,2,12524
+https://openalex.org/A5013723114,Jean Pouget-Abadie,Université de Montréal,2,11574
+https://openalex.org/A5035471281,Mehdi Mirza,Université de Montréal,2,11574
+https://openalex.org/A5101419707,Bing Xu,Université de Montréal,2,11574
+https://openalex.org/A5085746798,David Warde-Farley,Université de Montréal,2,11574
+https://openalex.org/A5049332971,Sherjil Ozair,Université de Montréal,2,11574
+https://openalex.org/A5112608251,Aaron Courville,Université de Montréal,2,11574
+https://openalex.org/A5086198262,Yoshua Bengio,Université de Montréal,2,11574
+https://openalex.org/A5028179581,Alexey Bochkovskiy,Unknown,2,15099
+https://openalex.org/A5011461272,Christian Drosten,Unknown,2,12122
+https://openalex.org/A5101711502,Shazia Alam,Unknown,2,13752
+https://openalex.org/A5084204507,Sergey Ovchinnikov,Harvard University,2,10992
+https://openalex.org/A5061581536,Damian Szklarczyk,University of Zurich,2,10343
+https://openalex.org/A5010825633,Annika L Gable,University of Zurich,2,10343
+https://openalex.org/A5026049213,Katerina Nastou,Novo Nordisk Foundation,2,10343
+https://openalex.org/A5027950078,Rebecca Kirsch,University of Copenhagen,2,10343
+https://openalex.org/A5066925770,Sampo Pyysalo,University of Turku,2,10343
+https://openalex.org/A5103353640,Nadezhda T. Doncheva,Novo Nordisk Foundation,2,10343
+https://openalex.org/A5009279307,Tao Fang,University of Zurich,2,10343
+https://openalex.org/A5005772961,Lars Juhl Jensen,University of Copenhagen,2,10343
+https://openalex.org/A5000334281,Christian von Mering,University of Zurich,2,10343
+https://openalex.org/A5004412943,Mike Lewis,Meta (Israel),2,7979
+https://openalex.org/A5019081674,Yinhan Liu,Meta (United States),2,8100
+https://openalex.org/A5103742478,Abdelrahman Mohamed,Meta (Israel),2,8649
+https://openalex.org/A5024311574,Omer Levy,Meta (United States),2,8100
+https://openalex.org/A5091317839,Veselin Stoyanov,Unknown,2,10486
+https://openalex.org/A5081176610,Agata Laydon,DeepMind (United Kingdom),2,8788
+https://openalex.org/A5063402771,Gerard J. Kleywegt,European Bioinformatics Institute,2,8788
+https://openalex.org/A5061379058,Ewan Birney,European Bioinformatics Institute,2,8788
+https://openalex.org/A5042460017,Sameer Velankar,European Bioinformatics Institute,2,8788
+https://openalex.org/A5071535801,María Martín,Unknown,2,10432
+https://openalex.org/A5004635493,Michele Magrane,Unknown,2,10432
+https://openalex.org/A5072185945,Shadab Ahmad,Unknown,2,10432
+https://openalex.org/A5022013017,Emanuele Alpi,Unknown,2,10432
+https://openalex.org/A5004251118,Emily Bowler-Barnett,Unknown,2,10432
+https://openalex.org/A5043724107,Ramona Britto,Unknown,2,10432
+https://openalex.org/A5017428541,Hema Bye‐A‐Jee,Unknown,2,10432
+https://openalex.org/A5072275311,Austra Cukura,Unknown,2,10432
+https://openalex.org/A5011711071,Paul Denny,Unknown,2,10432
+https://openalex.org/A5003981652,Tunca Doğan,Unknown,2,10432
+https://openalex.org/A5061539931,ThankGod E. Ebenezer,Unknown,2,10432
+https://openalex.org/A5068354146,Jun Fan,Unknown,2,10432
+https://openalex.org/A5053160264,Leyla Jael Castro,Unknown,2,11978
+https://openalex.org/A5069349768,Leonardo Jose da Costa Gonzales,Unknown,2,10432
+https://openalex.org/A5076857775,Emma Hatton-Ellis,Unknown,2,10432
+https://openalex.org/A5039746207,Abdulrahman Hussein,Unknown,2,10432
+https://openalex.org/A5091039507,Alexandr Ignatchenko,Unknown,2,10432
+https://openalex.org/A5033654825,Giuseppe Insana,Unknown,2,10432
+https://openalex.org/A5082961445,Vishal Joshi,Unknown,2,10432
+https://openalex.org/A5065438573,Dushyanth Jyothi,Unknown,2,10432
+https://openalex.org/A5021204441,Antonia Lock,Unknown,2,10432
+https://openalex.org/A5001593274,Aurélien Luciani,Unknown,2,10432
+https://openalex.org/A5101690881,Jie Luo,Unknown,2,10432
+https://openalex.org/A5046282166,Yvonne Lussi,Unknown,2,10432
+https://openalex.org/A5084502030,Alistair MacDougall,Unknown,2,10432
+https://openalex.org/A5026860748,Fábio Madeira,Unknown,2,10432
+https://openalex.org/A5005013658,Mahdi Mahmoudy,Unknown,2,10432
+https://openalex.org/A5059230101,Alok Mishra,Unknown,2,10432
+https://openalex.org/A5090702156,Katie Moulang,Unknown,2,10432
+https://openalex.org/A5027873927,Andrew Nightingale,Unknown,2,10432
+https://openalex.org/A5043957302,Sangya Pundir,Unknown,2,10432
+https://openalex.org/A5022542014,Guoying Qi,Unknown,2,10432
+https://openalex.org/A5059717452,Daniel L Rice,Unknown,2,10432
+https://openalex.org/A5030571533,M. Rodríguez-López,Unknown,2,9139
+https://openalex.org/A5031397536,Rabie Saidi,Unknown,2,10432
+https://openalex.org/A5000788984,Elena Speretta,Unknown,2,10432
+https://openalex.org/A5006316810,E. B. Turner,Unknown,2,10432
+https://openalex.org/A5085094751,Nidhi Tyagi,Unknown,2,10432
+https://openalex.org/A5033948789,Preethi Vasudev,Unknown,2,10432
+https://openalex.org/A5048123283,Kate Warner,Unknown,2,10432
+https://openalex.org/A5042565338,Xavier Watkins,Unknown,2,10432
+https://openalex.org/A5035728840,Rossana Zaru,Unknown,2,10432
+https://openalex.org/A5039390024,Hermann Zellner,Unknown,2,10432
+https://openalex.org/A5082490970,Sylvain Poux,Unknown,2,10432
+https://openalex.org/A5055073392,Nicole Redaschi,Unknown,2,10432
+https://openalex.org/A5067959898,Lucila Aimo,Unknown,2,10432
+https://openalex.org/A5076479035,Ghislaine Argoud‐Puy,Unknown,2,10432
+https://openalex.org/A5039823870,Andrea H Auchincloss,Unknown,2,10432
+https://openalex.org/A5077863600,Kristian B. Axelsen,Unknown,2,10432
+https://openalex.org/A5078746245,Parit Bansal,Unknown,2,10432
+https://openalex.org/A5012694144,Delphine Baratin,Unknown,2,10432
+https://openalex.org/A5064235679,Marie-Claude Blatter,Unknown,2,10432
+https://openalex.org/A5078283120,Jerven Bolleman,Unknown,2,10432
+https://openalex.org/A5040201934,Emmanuel Boutet,Unknown,2,10432
+https://openalex.org/A5047948695,Lionel Breuza,Unknown,2,10432
+https://openalex.org/A5049924936,Cristina Casals‐Casas,Unknown,2,10432
+https://openalex.org/A5096162130,Kamal Chikh Echioukh,Unknown,2,10432
+https://openalex.org/A5089027967,Elisabeth Coudert,Unknown,2,10432
+https://openalex.org/A5083207547,Beatrice Cuche,Unknown,2,10432
+https://openalex.org/A5059064009,Anne Estreicher,Unknown,2,10432
+https://openalex.org/A5102899719,Maria Livia Famiglietti,Unknown,2,10432
+https://openalex.org/A5037112209,Marc Feuermann,Unknown,2,10432
+https://openalex.org/A5051386555,Elisabeth Gasteiger,Unknown,2,10432
+https://openalex.org/A5091567502,Sébastien Géhant,Unknown,2,10432
+https://openalex.org/A5038353416,Vivienne Baillie Gerritsen,Unknown,2,10432
+https://openalex.org/A5045938547,Arnaud Gos,Unknown,2,10432
+https://openalex.org/A5000732341,Chantal Hulo,Unknown,2,10432
+https://openalex.org/A5028177121,Nevila Hyka‐Nouspikel,Unknown,2,10432
+https://openalex.org/A5076235150,Florence Jungo,Unknown,2,10432
+https://openalex.org/A5019695981,Arnaud Kerhornou,Unknown,2,10432
+https://openalex.org/A5091658610,Philippe Le Mercier,Unknown,2,10432
+https://openalex.org/A5070436721,Damien Lieberherr,Unknown,2,10432
+https://openalex.org/A5072404288,Patrick Masson,Unknown,2,10432
+https://openalex.org/A5112901893,Ruoming Pang,Google (United States),2,7854
+https://openalex.org/A5057928722,Sara Chuguransky,European Bioinformatics Institute,2,7701
+https://openalex.org/A5019810994,Lowri Williams,European Bioinformatics Institute,2,7701
+https://openalex.org/A5082697176,Matloob Qureshi,European Bioinformatics Institute,2,7701
+https://openalex.org/A5019704465,Gustavo A Salazar,European Bioinformatics Institute,2,7701
+https://openalex.org/A5066560665,Silvio C. E. Tosatto,University of Padua,2,7701
+https://openalex.org/A5072647800,Fabian Isensee,University Hospital Carl Gustav Carus,2,8010
+https://openalex.org/A5101862104,Hui Xiong,"Rutgers, The State University of New Jersey",2,7532
+https://openalex.org/A5011296467,Swaathi Kandasaamy,European Bioinformatics Institute,2,6351
+https://openalex.org/A5044580086,Catherine Rivoire,SIB Swiss Institute of Bioinformatics,2,6351
+https://openalex.org/A5057507337,Christian Sigrist,SIB Swiss Institute of Bioinformatics,2,6351
+https://openalex.org/A5101507596,Xinlei Chen,Meta (Israel),2,6685
+https://openalex.org/A5057866698,Piotr Dollár,Unknown,2,7338
+https://openalex.org/A5011556172,Davide Chicco,University of Toronto,2,6894
+https://openalex.org/A5090829168,Giuseppe Jurman,Fondazione Bruno Kessler,2,6894
+https://openalex.org/A5069316249,Édouard Grave,Unknown,2,6738
+https://openalex.org/A5076248976,Myle Ott,Meta (United States),2,6072
+https://openalex.org/A5028772381,Pamela Mishkin,Unknown,2,6851
+https://openalex.org/A5031107879,Jack Clark,Unknown,2,5841
+https://openalex.org/A5100668696,Jiashi Feng,National University of Singapore,2,5431
+https://openalex.org/A5021948346,Hanzi Mao,Unknown,2,6842
